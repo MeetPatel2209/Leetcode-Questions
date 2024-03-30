@@ -22,20 +22,6 @@ public:
     
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         int n = nums.size();
-        // vector<int> res(n+1,0);
-        // res[0] = 0;
-        // res[1] = 1;
-        // unordered_map<int,int> ump;
-        // ump[nums[0]]=1;
-        // for(int i=2;i<=n;i++) {
-        //     if(ump.find(nums[i])==ump.end()) {
-        //         res[i]=res[i-1]+1;
-        //     }
-        //     else {
-        //         res[i] = res[i-1];
-        //     }
-        //     ump[nums[i]]++;
-        // }
         return compute(nums,k) - compute(nums,k-1);
     }
 };
