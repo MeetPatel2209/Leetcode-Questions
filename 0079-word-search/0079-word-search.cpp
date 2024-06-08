@@ -1,57 +1,33 @@
-int dr[]{1,-1,0, 0};       
-int dc[]{0, 0,1,-1,};
 class Solution {
 public:
-    int n, m;
-    vector<vector<char>> _board;
-    string _word;
-    Solution()
-    {
-        ios_base::sync_with_stdio(false); 
-        cin.tie(NULL); 
-        cout.tie(NULL);
-    }
-    bool isValid(int r, int c)
-    {
-        if (r < 0 || r >= n)
-            return false;
-        if (c < 0 || c >= m)
-            return false;
-        return true;
-    }
-
-    bool DFS(int r, int c, int ptr)
-    {
-        if (ptr == _word.size())
-            return true;
+    bool check(string word,vector<vector<char>>& board,int i,int j,int index) {
+        if(index == word.size()) return true;
+        if(i<0 || j < 0 || i>=board.size() || j >=board[0].size() || board[i][j] == '0' || board[i][j] != word[index]) return false;
         
-        if (!isValid(r, c) || _board[r][c] == '0' || _word[ptr] != _board[r][c])
-            return false;
-        char tmp = _board[r][c];
-        _board[r][c] = '0';
-        for (int i = 0; i < 4; ++i)
-        {
-            if(DFS(r + dr[i], c + dc[i], ptr+1))
-                return true;
-        }
-        _board[r][c] = tmp;
-
-        return false;
+        char ch = board[i][j];
+        board[i][j] = '0';
+        
+        bool top = check(word,board,i-1,j,index+1);
+        bool bottom = check(word,board,i+1,j,index+1);
+        bool right = check(word,board,i,j-1,index+1);
+        bool left = check(word,board,i,j+1,index+1);
+        
+        board[i][j] = ch;
+        
+        return top || bottom || left || right;
+        
     }
-
+    
     bool exist(vector<vector<char>>& board, string word) {
-        n = board.size(), m = board[0].size();
-        _board = board;
-        _word = word;
-        for (int i = 0; i < n; ++i)
-        {
-            for (int j = 0; j < m; ++j)
-            {
-                if (DFS(i, j, 0))
-                    return true;
+        int n = board.size();
+        int m = board[0].size();
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
+                if(board[i][j] == word[0]) {
+                    if(check(word,board,i,j,0) == true) return true;
+                }
             }
         }
         return false;
     }
-
 };
