@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
+| [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
+| [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
