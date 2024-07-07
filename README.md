@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Trie
+|  |
+| ------- |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
