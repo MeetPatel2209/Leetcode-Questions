@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +74,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
