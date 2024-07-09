@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Prefix Sum
+|  |
+| ------- |
+| [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
 <!---LeetCode Topics End-->
