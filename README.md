@@ -33,12 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Stack
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
