@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
