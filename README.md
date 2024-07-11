@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
@@ -98,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
