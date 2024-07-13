@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
+| [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
