@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0726-number-of-atoms](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0726-number-of-atoms](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1197-parsing-a-boolean-expression](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
