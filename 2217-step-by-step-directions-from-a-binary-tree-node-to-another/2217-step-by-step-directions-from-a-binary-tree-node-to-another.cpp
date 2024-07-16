@@ -1,66 +1,54 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    string getDirections(TreeNode* root, int startValue, int destValue) {
-        // Find the Lowest Common Ancestor (LCA) of start and destination nodes
-        TreeNode* lowestCommonAncestor =
-            findLowestCommonAncestor(root, startValue, destValue);
-
-        string pathToStart;
-        string pathToDest;
-
-        // Find paths from LCA to start and destination nodes
-        findPath(lowestCommonAncestor, startValue, pathToStart);
-        findPath(lowestCommonAncestor, destValue, pathToDest);
-
-        string directions;
-
-        // Add "U" for each step to go up from start to LCA
-        directions.append(pathToStart.length(), 'U');
-
-        // Append the path from LCA to destination
-        directions.append(pathToDest);
-
-        return directions;
+    TreeNode* LCA(int node1,int node2,TreeNode* node) {
+        if(node == NULL || node->val == node1 || node->val == node2) return node;
+        TreeNode* left = LCA(node1,node2,node->left);
+        TreeNode* right = LCA(node1,node2,node->right);
+        if(left == NULL) return right;
+        else if(right == NULL) return left;
+        else return node;
     }
-
-private:
-    TreeNode* findLowestCommonAncestor(TreeNode* node, int value1, int value2) {
-        if (node == nullptr) return nullptr;
-
-        if (node->val == value1 || node->val == value2) return node;
-
-        TreeNode* leftLCA =
-            findLowestCommonAncestor(node->left, value1, value2);
-        TreeNode* rightLCA =
-            findLowestCommonAncestor(node->right, value1, value2);
-
-        if (leftLCA == nullptr)
-            return rightLCA;
-        else if (rightLCA == nullptr)
-            return leftLCA;
-        else
-            return node;  // Both values found, this is the LCA
-    }
-
-    bool findPath(TreeNode* node, int targetValue, string& path) {
-        if (node == nullptr) return false;
-
-        if (node->val == targetValue) return true;
-
-        // Try left subtree
-        path.push_back('L');
-        if (findPath(node->left, targetValue, path)) {
+    string ansu;
+    bool dfs(TreeNode* lca,int start,string &s) {
+        if(!lca) return false;
+        if(lca->val == start) {
+            //ansu = s;
             return true;
         }
-        path.pop_back();  // Remove last character
-
-        // Try right subtree
-        path.push_back('R');
-        if (findPath(node->right, targetValue, path)) {
+        s.push_back('L');
+        if(dfs(lca->left,start,s)) {
             return true;
         }
-        path.pop_back();  // Remove last character
-
+        s.pop_back();
+        s.push_back('R');
+        if(dfs(lca->right,start,s)) {
+            return true;
+        }
+        s.pop_back();
         return false;
+    }
+
+    string getDirections(TreeNode* root, int startValue, int destValue) {
+        TreeNode* node = root;
+        TreeNode* lca = LCA(startValue,destValue,node);
+        string s = "";
+        dfs(lca,startValue,s);
+        string t = "";
+        dfs(lca,destValue,t);
+        string s1(s.size(),'U');
+        // t = t.substr(j);
+        cout << s << " " << t;
+        return s1 + t;
     }
 };
