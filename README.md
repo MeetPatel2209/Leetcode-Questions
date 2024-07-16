@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Stack
 |  |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Heap (Priority Queue)
 |  |
@@ -157,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1321-get-equal-substrings-within-budget) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
