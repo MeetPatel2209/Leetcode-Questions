@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Counting
 |  |
@@ -176,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0176-second-highest-salary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
