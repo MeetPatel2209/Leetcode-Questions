@@ -172,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
