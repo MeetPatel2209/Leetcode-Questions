@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Heap (Priority Queue)
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Counting
