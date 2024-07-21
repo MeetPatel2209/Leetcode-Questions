@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -124,10 +125,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Monotonic Stack
 |  |
 | ------- |
