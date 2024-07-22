@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
