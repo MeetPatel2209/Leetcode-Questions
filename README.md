@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
