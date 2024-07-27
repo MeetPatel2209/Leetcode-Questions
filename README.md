@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-minimum-average-difference](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2342-minimum-average-difference) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2846-robot-collisions) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1397-search-suggestions-system) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MeetPatel2209/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
